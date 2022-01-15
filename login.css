@@ -69,10 +69,19 @@ input {
 
 #sign {
     inline-size: 335px;
+    margin-left: 12px;
     font-size: 15px;
     font-weight: bolder;
     letter-spacing: 2px;
     cursor: pointer;
+    transition: 0.3s;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: #F69680;
+    color: #2E1263;
+    margin: 10px;
+    border-color: #2E1263;
+    border: 2px solid;
 }
 
 #sign:hover{
